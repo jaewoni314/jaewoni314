@@ -1,0 +1,44 @@
+name: Update profile cards
+
+# README 의 배너와 활동 카드(assets/*.svg)를 최신 활동으로 다시 그린다.
+on:
+  schedule:
+    - cron: '17 21 * * *' # 매일 06:17 KST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/update-cards.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-cards
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: 카드 다시 그리기
+        run: node scripts/build-cards.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 바뀐 카드만 커밋
+        run: |
+          if [ -z "$(git status --porcelain -- assets)" ]; then
+            echo "바뀐 카드가 없습니다."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "chore: 프로필 카드 갱신"
+          git pull --rebase --quiet
+          git push
