@@ -6,9 +6,6 @@
   </picture>
 </div>
 
-- 🌱 **UMC 10기 · 11기 Web 파트**에서 React와 NestJS를 공부하며, 매주 프론트엔드와 백엔드 미션을 함께 풀고 있어요.
-- 🗺️ 여행 기록 서비스 **PicTree**에서 타임라인 · 마이페이지 · 공용 컴포넌트를 만들었고, 지금은 **React Native 앱**으로 옮기고 있어요.
-- 📱 **Kotlin · Jetpack Compose**로 안드로이드 앱도 만듭니다. 요즘은 스마트 출발 알람 **RouteAlarm**을 다듬고 있어요.
 - 🎓 한성대학교 · Seoul, Korea
 
 ## 🛠 Tech Stack
