@@ -124,7 +124,7 @@
 ### RouteAlarm
 
 **도착 시간에서 거꾸로 계산하는 스마트 출발 알람**<br>
-<sub>2026.10 – 진행 중 · Android</sub>
+<sub>2026.10 – 진행 중 · 4인 팀 · Android</sub>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/acylelli/Mobile-Programming/main/docs/screenshots/home.png" width="18%" alt="RouteAlarm 홈">
