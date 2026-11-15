@@ -6,8 +6,6 @@
   </picture>
 </div>
 
--  한성대학교 · Seoul, Korea
-
 ## Tech Stack
 
 <table>
