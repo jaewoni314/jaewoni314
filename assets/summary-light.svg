@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="196" viewBox="0 0 420 196" fill="none" role="img" aria-labelledby="t d">
-<title id="t">최근 1년 기여 446회</title>
-<desc id="d">커밋 330, PR 103, 이슈 8, 활동한 날 68일</desc>
+<title id="t">최근 1년 기여 448회</title>
+<desc id="d">커밋 331, PR 103, 이슈 8, 활동한 날 69일</desc>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', Helvetica, Arial, sans-serif; }
   .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
@@ -20,7 +20,7 @@
 <rect x="0.5" y="0.5" width="419" height="195" rx="10" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="24" y="36" class="label">CONTRIBUTIONS</text>
 <text x="396" y="36" text-anchor="end" class="note">최근 1년</text>
-<text x="22" y="92" class="fg fade" font-size="46" font-weight="700" letter-spacing="-1">446</text>
+<text x="22" y="92" class="fg fade" font-size="46" font-weight="700" letter-spacing="-1">448</text>
 <text x="24" y="114" class="note">contributions</text>
 <rect class="rise" x="193.08" y="98" width="11" height="2" rx="2" fill="#ebedf0" style="animation-delay:0ms"><title>2025-12: 0</title></rect>
 <text x="198.58" y="114" text-anchor="middle" class="faint" font-size="9.5">12</text>
@@ -44,15 +44,15 @@
 <text x="353.08" y="114" text-anchor="middle" class="faint" font-size="9.5">9</text>
 <rect class="rise" x="364.75" y="92.7" width="11" height="7.3" rx="2" fill="#40c463" style="animation-delay:450ms"><title>2026-10: 25</title></rect>
 <text x="370.25" y="114" text-anchor="middle" class="faint" font-size="9.5">10</text>
-<rect class="rise" x="381.92" y="88.91" width="11" height="11.09" rx="2" fill="#40c463" style="animation-delay:495ms"><title>2026-11: 38</title></rect>
+<rect class="rise" x="381.92" y="88.32" width="11" height="11.68" rx="2" fill="#40c463" style="animation-delay:495ms"><title>2026-11: 40</title></rect>
 <text x="387.42" y="114" text-anchor="middle" class="faint" font-size="9.5">11</text>
 <line x1="24" y1="132.5" x2="396" y2="132.5" stroke="#d1d9e0"/>
-<text x="24" y="162" class="fg" font-size="19" font-weight="700">330</text>
+<text x="24" y="162" class="fg" font-size="19" font-weight="700">331</text>
 <text x="24" y="180" class="note">커밋</text>
 <text x="117" y="162" class="fg" font-size="19" font-weight="700">103</text>
 <text x="117" y="180" class="note">PR</text>
 <text x="210" y="162" class="fg" font-size="19" font-weight="700">8</text>
 <text x="210" y="180" class="note">이슈</text>
-<text x="303" y="162" class="fg" font-size="19" font-weight="700">68</text>
+<text x="303" y="162" class="fg" font-size="19" font-weight="700">69</text>
 <text x="303" y="180" class="note">활동한 날</text>
 </svg>
