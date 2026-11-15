@@ -214,19 +214,6 @@
   </picture>
 </div>
 
-## Commit Log
-
-작업하면서 남긴 커밋 몇 줄입니다.
-
-- [`c4f3015`](https://github.com/PicTree-UMC/PicTree-Frontend/commit/c4f3015acc2c7654c15a1e729b80d1c464d06b07) fix: 날짜만 있는 값이 시간대 때문에 하루 밀리던 것
-- [`fde8f0d`](https://github.com/PicTree-UMC/PicTree-Frontend/commit/fde8f0da4e1d6eba47668f3d2d4b1ac64413cae1) fix: API 실패를 목데이터로 덮지 않고 사유를 알리도록 통일
-- [`4e49908`](https://github.com/PicTree-UMC/PicTree-Frontend/commit/4e499085ab6e16a2b7c9563ee6cacaf418e40b14) fix: 홈 지도가 장소 목록의 로딩·실패를 말하지 않던 것
-- [`272c25e`](https://github.com/PicTree-UMC/PicTree-Frontend/commit/272c25e643b702dbc8532bd04d0bbfddc305fca9) feat: 빈 화면 공용 컴포넌트 EmptyState 추가
-- [`751db3e`](https://github.com/PicTree-UMC/PicTree-Frontend/commit/751db3eb4bad926bad6faa1446bd5a1539f5a6dc) refactor: 캐시 수명을 도메인별로 차등한다
-- [`aa4205e`](https://github.com/HSU-Makeus-Challenge-11th/Web_C/commit/aa4205ed2ac059099473c20eeaa8e69f5f1ada2f) fix: Week7 로그인 응답 시간으로 가입 여부가 드러나지 않게 수정
-
-<br>
-
 <div align="center">
   <sub>배너와 활동 카드는 이 저장소의 <a href="scripts/build-cards.mjs">스크립트</a>가 GitHub Actions 로 매일 새로 그립니다.</sub>
 </div>
