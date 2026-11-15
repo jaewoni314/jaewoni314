@@ -6,9 +6,9 @@
   </picture>
 </div>
 
-- 🎓 한성대학교 · Seoul, Korea
+-  한성대학교 · Seoul, Korea
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-## 📫 Contact
+## Contact
 
 <table>
   <tr>
@@ -66,13 +66,13 @@
   </tr>
 </table>
 
-## 🚀 Projects
+## Projects
 
 <table>
   <tr>
     <td width="2000">
 
-### 🌳 PicTree
+### PicTree
 
 **사진 · 위치 · 동선 · 글쓰기를 하나로 잇는 여행 기록 서비스**<br>
 <sub>2026.07 – 2026.08 · 프론트엔드 4인 팀 · 타임라인 · 마이페이지 · 공용 컴포넌트 담당</sub>
@@ -103,7 +103,7 @@
   <tr>
     <td width="2000">
 
-### 📱 PicTree App · Web
+### PicTree App · Web
 
 **웹에서 시작한 PicTree 를 iOS · Android 앱으로**<br>
 <sub>2026.09 – 진행 중 · 비공개 저장소 · 프론트엔드</sub>
@@ -123,7 +123,7 @@
   <tr>
     <td width="2000">
 
-### ⏰ RouteAlarm
+### RouteAlarm
 
 **도착 시간에서 거꾸로 계산하는 스마트 출발 알람**<br>
 <sub>2026.10 – 진행 중 · Android</sub>
@@ -153,7 +153,7 @@
   <tr>
     <td width="2000">
 
-### 🧭 CodeRefactor
+### CodeRefactor
 
 **코드 의존성 시각화 & AI 리팩토링 가이드**<br>
 <sub>2026.09 – 2026.12 · 캡스톤 디자인 4인 팀 · 프론트엔드 담당</sub>
@@ -173,7 +173,7 @@
   <tr>
     <td width="2000">
 
-### 🎬 UMCine
+### UMCine
 
 **매주 한 겹씩 쌓아 가는 풀스택 영화 서비스**<br>
 <sub>2026.09 – 진행 중 · UMC 11기 Web 스터디</sub>
@@ -196,7 +196,7 @@
 - [CineSearch](https://github.com/jaewoni314/umc-final-vercel) — TMDB 영화 검색 · 필터 앱, Vercel 배포 · `React` `TypeScript` · [Demo](https://umc-final-vercel.vercel.app)
 - [OmokGame](https://github.com/jaewoni314/OmokGame) — AI 대전(난이도 3단계) · 리플레이 · 업적이 있는 오목 · `Java` `Swing`
 
-## 📈 Activity
+## Activity
 
 <div align="center">
   <picture>
@@ -216,7 +216,7 @@
   </picture>
 </div>
 
-## 🧾 Commit Log
+## Commit Log
 
 작업하면서 남긴 커밋 몇 줄입니다.
 
