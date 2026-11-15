@@ -9,7 +9,7 @@
 <h3 align="center">빈 화면, 로딩, 실패까지 — 화면의 모든 상태를 챙기는 프론트엔드 개발자 김재원입니다.</h3>
 
 - 🌱 **UMC 10기 · 11기 Web 파트**에서 React와 NestJS를 공부하며, 매주 프론트엔드와 백엔드 미션을 함께 풀고 있어요.
-- 🗺️ 여행 기록 서비스 **PicTree**에서 타임라인 · 마이페이지 · 공용 컴포넌트 · 근처 나무 알림을 만들었어요.
+- 🗺️ 여행 기록 서비스 **PicTree**에서 타임라인 · 마이페이지 · 공용 컴포넌트를 만들었고, 지금은 **React Native 앱**으로 옮기고 있어요.
 - 📱 **Kotlin · Jetpack Compose**로 안드로이드 앱도 만듭니다. 요즘은 스마트 출발 알람 **RouteAlarm**을 다듬고 있어요.
 - 🎓 한성대학교 · Seoul, Korea
 
@@ -32,6 +32,8 @@
   <tr>
     <th align="left">Mobile</th>
     <td width="2000">
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
+      <img src="https://img.shields.io/badge/Expo-1C2024?style=flat-square&logo=expo&logoColor=white" alt="Expo">
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
       <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" alt="Android">
       <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
@@ -85,6 +87,26 @@
 `React 19` `TypeScript` `Vite` `Tailwind CSS` `TanStack Query` `Zustand` `Kakao Maps`
 
 [저장소](https://github.com/PicTree-UMC/PicTree-Frontend) · [Live Demo](https://picturetree.netlify.app)
+
+</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="2000">
+
+### 📱 PicTree App · Web
+
+**웹에서 시작한 PicTree 를 iOS · Android 앱으로**<br>
+<sub>2026.09 – 진행 중 · 비공개 저장소 · 프론트엔드</sub>
+
+- **앱으로 옮기기** — 웹 화면을 Expo + React Native 로 옮기고, 새 디자인 시안에 맞춰 지도 · 기록 · 마이 · 설정 화면을 다시 구성
+- **서버 연결** — 이메일 로그인 · 회원가입 · 비밀번호 찾기, 내 정보 · 알림 설정 · 회원 탈퇴를 API 에 연결하고 푸시 토큰 등록 · 딥링크까지
+- **화면 다듬기** — 작은 화면(360×640), 시스템 글꼴 200%, 키보드가 올라온 상태까지 확인하며 고친 PR 120여 건
+- **웹** — 관리자 페이지(로그인 · 주문 관리)와 소개 · 정책 화면, 디자인 시스템 토큰 · 공통 컴포넌트 적용
+
+`React Native` `Expo` `Expo Router` `TypeScript` `TanStack Query` `Zustand` `Reanimated`
 
 </td>
   </tr>
