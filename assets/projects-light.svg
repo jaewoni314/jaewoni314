@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="214" viewBox="0 0 880 214" fill="none" role="img" aria-labelledby="t d">
 <title id="t">프로젝트별 주간 커밋</title>
-<desc id="d">PicTree · Frontend 225, UMC 11th · Web 41, UMC 10th · Web 28, RouteAlarm · Android 21</desc>
+<desc id="d">PicTree · Frontend 225, UMC 11th · Web 57, UMC 10th · Web 28, RouteAlarm · Android 21</desc>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', Helvetica, Arial, sans-serif; }
   .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
@@ -106,9 +106,9 @@
 <rect x="728.97" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#ebedf0"></rect>
 <rect x="744.38" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#ebedf0"></rect>
 <rect class="fade" x="759.78" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#40c463" style="animation-delay:476ms"><title>2026-11-01 주: 6 commits</title></rect>
-<rect class="fade" x="775.19" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#30a14e" style="animation-delay:490ms"><title>2026-11-08 주: 19 commits</title></rect>
-<rect x="790.59" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#ebedf0"></rect>
-<text x="856" y="116.5" text-anchor="end" class="mono fg" font-size="13" font-weight="600">41</text>
+<rect class="fade" x="775.19" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#30a14e" style="animation-delay:490ms"><title>2026-11-08 주: 34 commits</title></rect>
+<rect class="fade" x="790.59" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#9be9a8" style="animation-delay:504ms"><title>2026-11-15 주: 1 commits</title></rect>
+<text x="856" y="116.5" text-anchor="end" class="mono fg" font-size="13" font-weight="600">57</text>
 <circle cx="29" cy="136" r="5" fill="#3178c6"/>
 <text x="42" y="140.5" class="fg" font-size="13">UMC 10th · Web</text>
 <rect x="236" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#ebedf0"></rect>
