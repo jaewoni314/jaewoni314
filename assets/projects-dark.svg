@@ -19,175 +19,179 @@
 </style>
 <rect x="0.5" y="0.5" width="879" height="213" rx="10" fill="#0d1117" stroke="#3d444d"/>
 <text x="24" y="36" class="label">COMMITS BY PROJECT</text>
-<text x="856" y="36" text-anchor="end" class="note">한 칸 = 한 주 · 최근 37주</text>
+<text x="856" y="36" text-anchor="end" class="note">한 칸 = 한 주 · 최근 38주</text>
 <text x="236" y="64" class="faint" font-size="10.5">3월</text>
-<text x="297.62" y="64" class="faint" font-size="10.5">4월</text>
-<text x="359.24" y="64" class="faint" font-size="10.5">5월</text>
-<text x="436.27" y="64" class="faint" font-size="10.5">6월</text>
-<text x="497.89" y="64" class="faint" font-size="10.5">7월</text>
-<text x="559.51" y="64" class="faint" font-size="10.5">8월</text>
-<text x="636.54" y="64" class="faint" font-size="10.5">9월</text>
-<text x="698.16" y="64" class="faint" font-size="10.5">10월</text>
-<text x="759.78" y="64" class="faint" font-size="10.5">11월</text>
+<text x="296" y="64" class="faint" font-size="10.5">4월</text>
+<text x="356" y="64" class="faint" font-size="10.5">5월</text>
+<text x="431" y="64" class="faint" font-size="10.5">6월</text>
+<text x="491" y="64" class="faint" font-size="10.5">7월</text>
+<text x="551" y="64" class="faint" font-size="10.5">8월</text>
+<text x="626" y="64" class="faint" font-size="10.5">9월</text>
+<text x="686" y="64" class="faint" font-size="10.5">10월</text>
+<text x="746" y="64" class="faint" font-size="10.5">11월</text>
 <circle cx="29" cy="88" r="5" fill="#3178c6"/>
 <text x="42" y="92.5" class="fg" font-size="13">PicTree · Frontend</text>
-<rect x="236" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="251.41" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="266.81" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="282.22" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="297.62" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="313.03" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="328.43" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="343.84" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="359.24" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="374.65" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="390.05" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="405.46" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="420.86" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="436.27" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="451.68" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="467.08" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect class="fade" x="482.49" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:224ms"><title>2026-06-28 주: 3 commits</title></rect>
-<rect class="fade" x="497.89" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#006d32" style="animation-delay:238ms"><title>2026-07-05 주: 11 commits</title></rect>
-<rect class="fade" x="513.3" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:252ms"><title>2026-07-12 주: 4 commits</title></rect>
-<rect class="fade" x="528.7" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#006d32" style="animation-delay:266ms"><title>2026-07-19 주: 10 commits</title></rect>
-<rect class="fade" x="544.11" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#39d353" style="animation-delay:280ms"><title>2026-07-26 주: 65 commits</title></rect>
-<rect class="fade" x="559.51" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#39d353" style="animation-delay:294ms"><title>2026-08-02 주: 74 commits</title></rect>
-<rect class="fade" x="574.92" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#39d353" style="animation-delay:308ms"><title>2026-08-09 주: 46 commits</title></rect>
-<rect class="fade" x="590.32" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#006d32" style="animation-delay:322ms"><title>2026-08-16 주: 12 commits</title></rect>
-<rect x="605.73" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="621.14" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="636.54" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="651.95" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="667.35" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="682.76" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="698.16" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="713.57" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="728.97" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="744.38" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="759.78" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="775.19" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="790.59" y="81.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
+<rect x="236" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="251" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="266" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="281" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="296" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="311" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="326" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="341" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="356" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="371" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="386" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="401" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="416" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="431" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="446" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="461" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect class="fade" x="476" y="82" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:224ms"><title>2026-06-28 주: 3 commits</title></rect>
+<rect class="fade" x="491" y="82" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:238ms"><title>2026-07-05 주: 11 commits</title></rect>
+<rect class="fade" x="506" y="82" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:252ms"><title>2026-07-12 주: 4 commits</title></rect>
+<rect class="fade" x="521" y="82" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:266ms"><title>2026-07-19 주: 10 commits</title></rect>
+<rect class="fade" x="536" y="82" width="12" height="12" rx="2.5" fill="#39d353" style="animation-delay:280ms"><title>2026-07-26 주: 65 commits</title></rect>
+<rect class="fade" x="551" y="82" width="12" height="12" rx="2.5" fill="#39d353" style="animation-delay:294ms"><title>2026-08-02 주: 74 commits</title></rect>
+<rect class="fade" x="566" y="82" width="12" height="12" rx="2.5" fill="#39d353" style="animation-delay:308ms"><title>2026-08-09 주: 46 commits</title></rect>
+<rect class="fade" x="581" y="82" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:322ms"><title>2026-08-16 주: 12 commits</title></rect>
+<rect x="596" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="611" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="626" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="641" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="656" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="671" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="686" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="701" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="716" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="731" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="746" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="761" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="776" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="791" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
 <text x="856" y="92.5" text-anchor="end" class="mono fg" font-size="13" font-weight="600">225</text>
 <circle cx="29" cy="112" r="5" fill="#3178c6"/>
 <text x="42" y="116.5" class="fg" font-size="13">UMC 11th · Web</text>
-<rect x="236" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="251.41" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="266.81" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="282.22" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="297.62" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="313.03" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="328.43" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="343.84" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="359.24" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="374.65" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="390.05" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="405.46" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="420.86" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="436.27" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="451.68" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="467.08" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="482.49" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="497.89" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="513.3" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="528.7" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="544.11" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="559.51" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="574.92" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="590.32" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="605.73" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="621.14" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="636.54" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect class="fade" x="651.95" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#006d32" style="animation-delay:378ms"><title>2026-09-13 주: 5 commits</title></rect>
-<rect class="fade" x="667.35" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:392ms"><title>2026-09-20 주: 1 commits</title></rect>
-<rect class="fade" x="682.76" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:406ms"><title>2026-09-27 주: 2 commits</title></rect>
-<rect class="fade" x="698.16" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:420ms"><title>2026-10-04 주: 4 commits</title></rect>
-<rect class="fade" x="713.57" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:434ms"><title>2026-10-11 주: 4 commits</title></rect>
-<rect x="728.97" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="744.38" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect class="fade" x="759.78" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#006d32" style="animation-delay:476ms"><title>2026-11-01 주: 6 commits</title></rect>
-<rect class="fade" x="775.19" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#26a641" style="animation-delay:490ms"><title>2026-11-08 주: 34 commits</title></rect>
-<rect class="fade" x="790.59" y="105.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:504ms"><title>2026-11-15 주: 1 commits</title></rect>
+<rect x="236" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="251" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="266" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="281" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="296" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="311" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="326" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="341" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="356" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="371" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="386" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="401" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="416" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="431" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="446" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="461" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="476" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="491" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="506" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="521" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="536" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="551" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="566" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="581" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="596" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="611" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="626" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect class="fade" x="641" y="106" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:378ms"><title>2026-09-13 주: 5 commits</title></rect>
+<rect class="fade" x="656" y="106" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:392ms"><title>2026-09-20 주: 1 commits</title></rect>
+<rect class="fade" x="671" y="106" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:406ms"><title>2026-09-27 주: 2 commits</title></rect>
+<rect class="fade" x="686" y="106" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:420ms"><title>2026-10-04 주: 4 commits</title></rect>
+<rect class="fade" x="701" y="106" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:434ms"><title>2026-10-11 주: 4 commits</title></rect>
+<rect x="716" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="731" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect class="fade" x="746" y="106" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:476ms"><title>2026-11-01 주: 6 commits</title></rect>
+<rect class="fade" x="761" y="106" width="12" height="12" rx="2.5" fill="#26a641" style="animation-delay:490ms"><title>2026-11-08 주: 34 commits</title></rect>
+<rect class="fade" x="776" y="106" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:504ms"><title>2026-11-15 주: 1 commits</title></rect>
+<rect x="791" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
 <text x="856" y="116.5" text-anchor="end" class="mono fg" font-size="13" font-weight="600">57</text>
 <circle cx="29" cy="136" r="5" fill="#3178c6"/>
 <text x="42" y="140.5" class="fg" font-size="13">UMC 10th · Web</text>
-<rect x="236" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect class="fade" x="251.41" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:14ms"><title>2026-03-15 주: 3 commits</title></rect>
-<rect class="fade" x="266.81" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#006d32" style="animation-delay:28ms"><title>2026-03-22 주: 7 commits</title></rect>
-<rect class="fade" x="282.22" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:42ms"><title>2026-03-29 주: 2 commits</title></rect>
-<rect class="fade" x="297.62" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:56ms"><title>2026-04-05 주: 1 commits</title></rect>
-<rect x="313.03" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="328.43" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect class="fade" x="343.84" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:98ms"><title>2026-04-26 주: 2 commits</title></rect>
-<rect class="fade" x="359.24" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:112ms"><title>2026-05-03 주: 2 commits</title></rect>
-<rect class="fade" x="374.65" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:126ms"><title>2026-05-10 주: 3 commits</title></rect>
-<rect class="fade" x="390.05" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#0e4429" style="animation-delay:140ms"><title>2026-05-17 주: 3 commits</title></rect>
-<rect class="fade" x="405.46" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#006d32" style="animation-delay:154ms"><title>2026-05-24 주: 5 commits</title></rect>
-<rect x="420.86" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="436.27" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="451.68" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="467.08" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="482.49" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="497.89" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="513.3" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="528.7" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="544.11" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="559.51" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="574.92" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="590.32" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="605.73" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="621.14" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="636.54" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="651.95" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="667.35" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="682.76" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="698.16" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="713.57" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="728.97" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="744.38" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="759.78" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="775.19" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="790.59" y="129.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
+<rect x="236" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect class="fade" x="251" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:14ms"><title>2026-03-15 주: 3 commits</title></rect>
+<rect class="fade" x="266" y="130" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:28ms"><title>2026-03-22 주: 7 commits</title></rect>
+<rect class="fade" x="281" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:42ms"><title>2026-03-29 주: 2 commits</title></rect>
+<rect class="fade" x="296" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:56ms"><title>2026-04-05 주: 1 commits</title></rect>
+<rect x="311" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="326" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect class="fade" x="341" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:98ms"><title>2026-04-26 주: 2 commits</title></rect>
+<rect class="fade" x="356" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:112ms"><title>2026-05-03 주: 2 commits</title></rect>
+<rect class="fade" x="371" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:126ms"><title>2026-05-10 주: 3 commits</title></rect>
+<rect class="fade" x="386" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:140ms"><title>2026-05-17 주: 3 commits</title></rect>
+<rect class="fade" x="401" y="130" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:154ms"><title>2026-05-24 주: 5 commits</title></rect>
+<rect x="416" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="431" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="446" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="461" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="476" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="491" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="506" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="521" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="536" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="551" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="566" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="581" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="596" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="611" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="626" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="641" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="656" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="671" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="686" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="701" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="716" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="731" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="746" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="761" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="776" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="791" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
 <text x="856" y="140.5" text-anchor="end" class="mono fg" font-size="13" font-weight="600">28</text>
 <circle cx="29" cy="160" r="5" fill="#A97BFF"/>
 <text x="42" y="164.5" class="fg" font-size="13">RouteAlarm · Android</text>
-<rect x="236" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="251.41" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="266.81" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="282.22" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="297.62" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="313.03" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="328.43" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="343.84" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="359.24" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="374.65" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="390.05" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="405.46" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="420.86" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="436.27" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="451.68" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="467.08" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="482.49" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="497.89" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="513.3" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="528.7" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="544.11" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="559.51" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="574.92" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="590.32" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="605.73" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="621.14" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="636.54" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="651.95" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="667.35" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect class="fade" x="682.76" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#006d32" style="animation-delay:406ms"><title>2026-09-27 주: 14 commits</title></rect>
-<rect x="698.16" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="713.57" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="728.97" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="744.38" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect x="759.78" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
-<rect class="fade" x="775.19" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#006d32" style="animation-delay:490ms"><title>2026-11-08 주: 7 commits</title></rect>
-<rect x="790.59" y="153.8" width="12.41" height="12.41" rx="2.5" fill="#161b22"></rect>
+<rect x="236" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="251" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="266" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="281" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="296" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="311" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="326" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="341" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="356" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="371" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="386" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="401" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="416" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="431" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="446" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="461" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="476" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="491" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="506" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="521" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="536" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="551" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="566" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="581" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="596" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="611" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="626" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="641" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="656" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect class="fade" x="671" y="154" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:406ms"><title>2026-09-27 주: 14 commits</title></rect>
+<rect x="686" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="701" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="716" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="731" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="746" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect class="fade" x="761" y="154" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:490ms"><title>2026-11-08 주: 7 commits</title></rect>
+<rect x="776" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
+<rect x="791" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
 <text x="856" y="164.5" text-anchor="end" class="mono fg" font-size="13" font-weight="600">21</text>
 <text x="24" y="195" class="faint" font-size="11.5">공개 저장소 기준</text>
 <text x="856" y="195" text-anchor="end" class="faint" font-size="11.5">More</text>
