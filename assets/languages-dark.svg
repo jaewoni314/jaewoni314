@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="196" viewBox="0 0 420 196" fill="none" role="img" aria-labelledby="t d">
 <title id="t">언어별 커밋 비율</title>
-<desc id="d">TypeScript 333, Kotlin 104, JavaScript 20, Python 6, Java 2</desc>
+<desc id="d">TypeScript 333, Kotlin 134, JavaScript 20, Python 6, Java 2</desc>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', Helvetica, Arial, sans-serif; }
   .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
@@ -22,31 +22,31 @@
 <text x="396" y="36" text-anchor="end" class="note">저장소 주 언어 기준</text>
 <clipPath id="bar"><rect x="24" y="56" width="372" height="10" rx="5"/></clipPath>
 <g clip-path="url(#bar)"><g class="grow">
-<rect x="24" y="56" width="250.35" height="10" fill="#3178c6"><title>TypeScript: 333</title></rect>
-<rect x="276.35" y="56" width="80.94" height="10" fill="#A97BFF"><title>Kotlin: 104</title></rect>
-<rect x="359.29" y="56" width="18.8" height="10" fill="#f1e05a"><title>JavaScript: 20</title></rect>
-<rect x="380.08" y="56" width="8.44" height="10" fill="#3572A5"><title>Python: 6</title></rect>
-<rect x="390.52" y="56" width="5.48" height="10" fill="#b07219"><title>Java: 2</title></rect>
+<rect x="24" y="56" width="235.42" height="10" fill="#3178c6"><title>TypeScript: 333</title></rect>
+<rect x="261.42" y="56" width="97.12" height="10" fill="#A97BFF"><title>Kotlin: 134</title></rect>
+<rect x="360.54" y="56" width="17.9" height="10" fill="#f1e05a"><title>JavaScript: 20</title></rect>
+<rect x="380.44" y="56" width="8.17" height="10" fill="#3572A5"><title>Python: 6</title></rect>
+<rect x="390.61" y="56" width="5.39" height="10" fill="#b07219"><title>Java: 2</title></rect>
 </g></g>
 <g class="fade" style="animation-delay:200ms">
 <circle cx="29" cy="95.5" r="5" fill="#3178c6"/>
 <text x="41" y="100" class="fg" font-size="13">TypeScript</text>
-<text x="198" y="100" text-anchor="end" class="muted" font-size="12">72%</text>
+<text x="198" y="100" text-anchor="end" class="muted" font-size="12">67%</text>
 </g>
 <g class="fade" style="animation-delay:270ms">
 <circle cx="227" cy="95.5" r="5" fill="#A97BFF"/>
 <text x="239" y="100" class="fg" font-size="13">Kotlin</text>
-<text x="396" y="100" text-anchor="end" class="muted" font-size="12">22%</text>
+<text x="396" y="100" text-anchor="end" class="muted" font-size="12">27%</text>
 </g>
 <g class="fade" style="animation-delay:340ms">
 <circle cx="29" cy="123.5" r="5" fill="#f1e05a"/>
 <text x="41" y="128" class="fg" font-size="13">JavaScript</text>
-<text x="198" y="128" text-anchor="end" class="muted" font-size="12">4.3%</text>
+<text x="198" y="128" text-anchor="end" class="muted" font-size="12">4.0%</text>
 </g>
 <g class="fade" style="animation-delay:410ms">
 <circle cx="227" cy="123.5" r="5" fill="#3572A5"/>
 <text x="239" y="128" class="fg" font-size="13">Python</text>
-<text x="396" y="128" text-anchor="end" class="muted" font-size="12">1.3%</text>
+<text x="396" y="128" text-anchor="end" class="muted" font-size="12">1.2%</text>
 </g>
 <g class="fade" style="animation-delay:480ms">
 <circle cx="29" cy="151.5" r="5" fill="#b07219"/>

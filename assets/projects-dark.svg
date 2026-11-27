@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="214" viewBox="0 0 880 214" fill="none" role="img" aria-labelledby="t d">
 <title id="t">프로젝트별 주간 커밋</title>
-<desc id="d">PicTree · Frontend 225, RouteAlarm · Android 100, UMC 11th · Web 79, UMC 10th · Web 28</desc>
+<desc id="d">PicTree · Frontend 225, RouteAlarm · Android 130, UMC 11th · Web 79, UMC 10th · Web 28</desc>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', Helvetica, Arial, sans-serif; }
   .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
@@ -53,7 +53,7 @@
 <rect class="fade" x="521" y="82" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:266ms"><title>2026-07-19 주: 10 commits</title></rect>
 <rect class="fade" x="536" y="82" width="12" height="12" rx="2.5" fill="#39d353" style="animation-delay:280ms"><title>2026-07-26 주: 65 commits</title></rect>
 <rect class="fade" x="551" y="82" width="12" height="12" rx="2.5" fill="#39d353" style="animation-delay:294ms"><title>2026-08-02 주: 74 commits</title></rect>
-<rect class="fade" x="566" y="82" width="12" height="12" rx="2.5" fill="#39d353" style="animation-delay:308ms"><title>2026-08-09 주: 46 commits</title></rect>
+<rect class="fade" x="566" y="82" width="12" height="12" rx="2.5" fill="#26a641" style="animation-delay:308ms"><title>2026-08-09 주: 46 commits</title></rect>
 <rect class="fade" x="581" y="82" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:322ms"><title>2026-08-16 주: 12 commits</title></rect>
 <rect x="596" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
 <rect x="611" y="82" width="12" height="12" rx="2.5" fill="#161b22"></rect>
@@ -109,8 +109,8 @@
 <rect x="746" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
 <rect class="fade" x="761" y="106" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:490ms"><title>2026-11-08 주: 7 commits</title></rect>
 <rect x="776" y="106" width="12" height="12" rx="2.5" fill="#161b22"></rect>
-<rect class="fade" x="791" y="106" width="12" height="12" rx="2.5" fill="#39d353" style="animation-delay:518ms"><title>2026-11-22 주: 79 commits</title></rect>
-<text x="856" y="116.5" text-anchor="end" class="mono fg" font-size="13" font-weight="600">100</text>
+<rect class="fade" x="791" y="106" width="12" height="12" rx="2.5" fill="#39d353" style="animation-delay:518ms"><title>2026-11-22 주: 109 commits</title></rect>
+<text x="856" y="116.5" text-anchor="end" class="mono fg" font-size="13" font-weight="600">130</text>
 <circle cx="29" cy="136" r="5" fill="#3178c6"/>
 <text x="42" y="140.5" class="fg" font-size="13">UMC 11th · Web</text>
 <rect x="236" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
@@ -140,16 +140,16 @@
 <rect x="596" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
 <rect x="611" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
 <rect x="626" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
-<rect class="fade" x="641" y="130" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:378ms"><title>2026-09-13 주: 5 commits</title></rect>
+<rect class="fade" x="641" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:378ms"><title>2026-09-13 주: 5 commits</title></rect>
 <rect class="fade" x="656" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:392ms"><title>2026-09-20 주: 1 commits</title></rect>
 <rect class="fade" x="671" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:406ms"><title>2026-09-27 주: 2 commits</title></rect>
 <rect class="fade" x="686" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:420ms"><title>2026-10-04 주: 4 commits</title></rect>
 <rect class="fade" x="701" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:434ms"><title>2026-10-11 주: 4 commits</title></rect>
 <rect x="716" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
 <rect x="731" y="130" width="12" height="12" rx="2.5" fill="#161b22"></rect>
-<rect class="fade" x="746" y="130" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:476ms"><title>2026-11-01 주: 6 commits</title></rect>
+<rect class="fade" x="746" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:476ms"><title>2026-11-01 주: 6 commits</title></rect>
 <rect class="fade" x="761" y="130" width="12" height="12" rx="2.5" fill="#26a641" style="animation-delay:490ms"><title>2026-11-08 주: 34 commits</title></rect>
-<rect class="fade" x="776" y="130" width="12" height="12" rx="2.5" fill="#26a641" style="animation-delay:504ms"><title>2026-11-15 주: 21 commits</title></rect>
+<rect class="fade" x="776" y="130" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:504ms"><title>2026-11-15 주: 21 commits</title></rect>
 <rect class="fade" x="791" y="130" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:518ms"><title>2026-11-22 주: 2 commits</title></rect>
 <text x="856" y="140.5" text-anchor="end" class="mono fg" font-size="13" font-weight="600">79</text>
 <circle cx="29" cy="160" r="5" fill="#3178c6"/>
@@ -165,7 +165,7 @@
 <rect class="fade" x="356" y="154" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:112ms"><title>2026-05-03 주: 2 commits</title></rect>
 <rect class="fade" x="371" y="154" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:126ms"><title>2026-05-10 주: 3 commits</title></rect>
 <rect class="fade" x="386" y="154" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:140ms"><title>2026-05-17 주: 3 commits</title></rect>
-<rect class="fade" x="401" y="154" width="12" height="12" rx="2.5" fill="#006d32" style="animation-delay:154ms"><title>2026-05-24 주: 5 commits</title></rect>
+<rect class="fade" x="401" y="154" width="12" height="12" rx="2.5" fill="#0e4429" style="animation-delay:154ms"><title>2026-05-24 주: 5 commits</title></rect>
 <rect x="416" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
 <rect x="431" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
 <rect x="446" y="154" width="12" height="12" rx="2.5" fill="#161b22"></rect>
